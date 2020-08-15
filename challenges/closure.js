@@ -16,7 +16,7 @@ function myFunction() {
 }
 myFunction();
 
-// Explanation: 
+// Explanation: the function has a clousure to find the internal variable in its lexical enviroment
 
 
 /* Task 2: Counter */
