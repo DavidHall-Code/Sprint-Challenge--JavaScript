@@ -1,0 +1,20 @@
+Briefly compare and contrast .forEach & .map (2-3 sentences max): .foreach does not return a new array. .map returns a new array.
+
+Explain the difference between a callback and a higher order function.: Higher order funcion takes another function as an arguement. 
+									A callback function is passed to another function thinking that
+									the function will call it.
+
+What is closure? : is the combination aof a function that is enclosed with referances to its state.
+
+Describe the four rules of the 'this' keyword.:
+		New binding: Is the usage of a constructor that is names that start with a uppercase, when the function is called it uses
+				the new keyword.
+
+		Implicite binding: creates the state associated with a binding that is invisiable to the client.
+
+		Explicite binding: uses .call, .apply, .bind to help bind a keyword to the given object.
+ 
+		Global/ Window: implys the usage of a constructor funtion, when a fuction is called you would call it
+				with the new keyword.
+
+Why do we need super() in an extended class?: the 'super()' rerfers to the parent. It is used to call the construtor funtion of the parent.
